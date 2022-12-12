@@ -2,6 +2,8 @@
 /**
  * main - entry point
  *
+ * description: printing in c
+ *
  * return: always 0 (success)
  */
 int main(void)
